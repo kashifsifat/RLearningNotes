@@ -579,7 +579,7 @@ dotchart(x$mpg)
 with(x, dotchart(x$mpg))
 #No difference
 
-#Plot 05
+#Plot 06
 x <- mtcars
 summary(mtcars$gear)
 y <- table(mtcars$gear)
