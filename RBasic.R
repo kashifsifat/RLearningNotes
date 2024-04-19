@@ -632,7 +632,7 @@ print(aot(4, 4))
 ##################################################
 
 ##################################################
-#Reference:
+# Reference:
 # Cotton, R. (2022b, June 3). Getting Started with R Cheat Sheet. https://www.datacamp.com/cheat-sheet/getting-started-r/
 # E. Helwig, N. (2020, August 27). Introduction to R [Slide show]. http://users.stat.umn.edu/~helwig/notes/IntroductionR_slides.pdf
 # Storer, A. (2013, January 16). Introduction to R [Slide show]. https://projects.iq.harvard.edu/files/rtc/files/rintro.pdf
